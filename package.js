@@ -1,13 +1,13 @@
 Package.describe({
   name: 'orbyt:financejs',
-  version: '0.0.5',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'This is financejs for Meteor. Financejs helps with common finance calculations. ',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/Orbyt/orbyt-financejs',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
-  documentation: 'README.md'
+  documentation: ''
 });
 
 Package.onUse(function(api) {
