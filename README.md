@@ -1,0 +1,1 @@
+This is [financejs](http://financejs.org/) wrapped for Meteor. To use, simply declare a new variable like: `var finance = new Finance();` and then call the methods on that variable, eg: `finance.CAGR(10000, 19500, 3);`. All the available calculations can be found on the [financejs](http://financejs.org/) site.
