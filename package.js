@@ -1,6 +1,6 @@
 Package.describe({
   name: 'orbyt:financejs',
-  version: '1.4.0',
+  version: '1.5.0',
   // Brief, one-line summary of the package.
   summary: 'This is financejs for Meteor. Financejs helps with common finance calculations. ',
   // URL to the Git repository containing the source code for this package.
